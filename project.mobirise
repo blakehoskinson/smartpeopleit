@@ -160,7 +160,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/coding-699318-600x410.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coding-699318-600x400.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
