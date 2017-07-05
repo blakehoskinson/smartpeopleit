@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 20,
+    "uniqCompNum": 21,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -25,53 +25,6 @@
         "html_before": ""
       },
       "components": [
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-d",
-          "_params": {
-            "showCaption": "noCaption",
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "showTitle": true,
-            "showText": false,
-            "showButton": false,
-            "bgImageRadio": true,
-            "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/binary-code-507790-2000x1413.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#41a85f",
-            "showMeta": false,
-            "darkBackground": true
-          },
-          "title": "",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
         {
           "_tags": [
             "Theme"
@@ -100,7 +53,7 @@
             "overlayColor": "#222",
             "showHeader": true,
             "showSubheader": false,
-            "columns": "3",
+            "columns": "2",
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
@@ -136,7 +89,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/laptop-849798-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coding-699318-600x400.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -155,7 +108,7 @@
             }
           },
           "title2": "<span style=\"color: inherit; font-family: inherit; letter-spacing: 1px; line-height: 1.1em;\">STAFF AUGMENTATION FOR BUSINESSES</span><br><br>",
-          "caption2": "Are staffing shortages holding back your IT projects? Perhaps you need an expert to add skills to your team. Either way, Smart People IT can help. We provide skilled professionals that will work with your team to drive your projects to completion. Whether your needs are short or long term, Smart People IT is an experienced, cost-effective extension to your current technical staff.",
+          "caption2": "Are staffing shortages holding back your IT projects? Perhaps you need an expert to add skills to your team. Either way, Smart People IT can help. We provide skilled professionals that will work with your team to drive your projects to completion. From per incident projects to enterprise class administration and outsourcing, Smart People IT is a cost-effective extension to your current technical staff.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -179,7 +132,7 @@
             }
           },
           "title3": "SHORT TERM PROJECTS<br>",
-          "caption3": "<span style=\"font-size: 17px;\">Our skilled professionals can assist with new products installations, system upgrades, server migrations, and/or datacenter moves. From single per incident projects to enterprise class administration and outsourcing, whatever your need, Smart People IT can provide the right people to make your project a success.</span><br>",
+          "caption3": "<span style=\"font-size: 17px;\">.</span><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -261,7 +214,7 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-8",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "14",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -287,7 +240,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/server-2160321-1400x490.jpg",
+              "src": "@PROJECT_PATH@/assets/images/server-room-1376349-1400x2493.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -308,7 +261,7 @@
           "headerAlign": "left",
           "title": "ABOUT",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Smart People IT is a computer consulting and contract staffing company that provides skilled professionals to assist with short and long term IT projects. Our professionals are experts in IT infrastructure (Operating System, Servers, Networks, and Storage). &nbsp;At Smart People IT, integrity and reliability are the cornerstones of our operations.</p>",
+          "text": "<p>Smart People IT is a computer consulting and contract staffing company that provides skilled professionals to assist with short and long term IT projects. Our professionals are experts in IT infrastructure (Operating System, Servers, Networks, and Storage) and can assist with projects such as new products installations, system upgrades, server migrations, and datacenter moves. &nbsp;At Smart People IT, integrity and reliability are the cornerstones of our operations.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
