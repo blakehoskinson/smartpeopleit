@@ -9,10 +9,13 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 21,
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.9.5",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-100962920-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-100962920-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -37,27 +40,27 @@
           },
           "_anchor": "features1-1",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showHeader": true,
             "showSubheader": false,
-            "columns": "2",
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "headerAlign": "left",
           "header": "SOLUTIONS",
@@ -214,26 +217,26 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-8",
           "_params": {
-            "imageSize": "14",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#2c2c2c",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
             "showTitle": true,
             "showMeta": false,
             "showText": true,
-            "showButtons": false
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "14",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c2c2c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -261,7 +264,7 @@
           "headerAlign": "left",
           "title": "ABOUT",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Smart People IT is a computer consulting and contract staffing company that provides skilled professionals to assist with short and long term IT projects. Our professionals are experts in IT infrastructure (Operating System, Servers, Networks, and Storage) and can assist with projects such as new products installations, system upgrades, server migrations, and datacenter moves. &nbsp;At Smart People IT, integrity and reliability are the cornerstones of our operations.</p>",
+          "text": "<p>Smart People IT is a computer consulting and contract staffing company that provides skilled professionals to assist with short and long term IT projects. Our professionals are experts in IT infrastructure (Operating System, Servers, Networks, and Storage) and can assist with projects such as new products installations, system upgrades, migrations, and datacenter moves. &nbsp;At Smart People IT, integrity and reliability are the cornerstones of our operations.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -293,30 +296,30 @@
           "_name": "content5",
           "_anchor": "content5-2",
           "_params": {
-            "showCaption": "noCaption",
-            "paddingTop": 3,
-            "paddingBottom": 3,
             "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
             "showText": true,
             "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/server-90389-2000x1333.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
+            "darkBackground": true,
             "overlay": true,
-            "overlayOpacity": "0.3",
             "overlayColor": "#2c2c2c",
-            "showMeta": false,
-            "darkBackground": true
+            "overlayOpacity": "0.3"
           },
           "title": "OUR TEAM OF EXPERTS",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Smart People IT can find the right people for your IT project. While we specialiaze in Unix and Storage, we can assit you with any IT skills. Currently we have people with deep skills in:</p><ul><li>IBM Power Servers: AIX, System i, AS/400, PowerVM, VIO, PowerHA, HACMP</li><li>IBM Storage: DS8000, SVC, V9000, V7000, V5000, V3000, XIV, Spectrum Virtualize</li><li>IBM Spectrum Protect, Tivoli Storage Manager (TSM)</li><li>Linux, Sun Solaris, HP-UX and Oracle DB</li></ul>",
+          "text": "<p>Smart People IT can find the right people for your IT project. While we specialiaze in Unix and Storage, we can assit you with any IT skills. Our skills sets include:</p><ul><li>IBM Power Servers: AIX, System i, AS/400, PowerVM, VIO, PowerHA, HACMP</li><li>IBM Storage: DS8000, XIV, SVC, V9000, V7000, V5000, FlashSystem, Spectrum Virtualize</li><li>EMC Storage: VNX, Unity, Isilon, VMAX, Symmetrix&nbsp;</li><li>Other storage such as NetApp, 3PAR, Brocade, Cisco</li><li>Backup/Recovery: IBM Spectrum Protect, Tivoli Storage Manager (TSM), Backup Exec, Veeam, EMC Networker, EMC Avamar, IBM ProtecTIER, EMC DataDomain, tape libraries</li><li>OS: VMware, Windows, UNIX (Linux, AIX, Sun Solaris, HP-UX), IBM i</li></ul>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -331,17 +334,17 @@
           },
           "_anchor": "form1-3",
           "_params": {
+            "showTitle": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#ffffff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true
+            "overlayOpacity": 0.5
           },
           "title": "CONTACT FORM",
           "form": {
@@ -395,14 +398,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-4",
           "_params": {
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff",
-            "transparent": false,
-            "sticky": true,
-            "collapsed": false,
             "logo": true,
             "showBrand": false,
-            "showButtons": false
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -440,13 +443,13 @@
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#3c3c3c",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -467,7 +470,7 @@
           },
           "text1": "<strong>ADDRESS</strong><br>PO Box 8114<br>Chattanooga, TN 37414",
           "text2": "<strong>CONTACTS</strong><br>\nEmail: info@smartpeopleit.com<br><br><br>",
-          "text3": "<p><br></p><p><br></p><p>&nbsp; &nbsp; Copyright (c) 2017 SmartPeople IT</p><p></p><ul class=\"mbr-contacts__list\"></ul><p></p>"
+          "text3": "<p><br></p><p><br></p><p>&nbsp; &nbsp; Copyright (c) 2019 SmartPeople IT</p><p></p><ul class=\"mbr-contacts__list\"></ul><p></p>"
         }
       ]
     }
